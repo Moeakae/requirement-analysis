@@ -16,3 +16,6 @@ This is for documenting, analysing and structuring requirements for software dev
 | Requirement Documantation | CREATING, COST EFFICACY, and EXECUTIVE SUMMERY
 | Requirement Analysis AND Modeling| LISTING SECURITY, PRIVACY AND COMPLIANCE
 | Requirenent Validation    | DEVELOPING, PERFORMING and IDENTIFYING
+### Types of Requirements
+|Fuctional Requirements                             |Non-fuctional Requirements
+-defines what a system should do                    | -defines how the system should do
