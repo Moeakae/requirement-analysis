@@ -19,3 +19,4 @@ This is for documenting, analysing and structuring requirements for software dev
 ### Types of Requirements
 |Fuctional Requirements                             |Non-fuctional Requirements
 -defines what a system should do                    | -defines how the system should do
+### Use Case Diagrams
