@@ -32,7 +32,7 @@ Use Case Diagrams are part of the Unified Modeling Language (UML) and are used i
 
 Below is the use case diagram showing the main actors and their interactions with the booking system:
 
-![https://drive.google.com/file/d/1jYlxe14qaM7pKcQHTrOG8b8W7MMB-n2X/view?usp=sharing](./alx-booking-uc.png)
+![c:\Users\novo_\Downloads\ChatGPT Image Jun 29, 2025, 06_11_55 PM.png](./alx-booking-uc.png)
 
 #### 👤 Actors:
 - **Guest**: Can search listings, view listing details, make bookings, and leave reviews.
